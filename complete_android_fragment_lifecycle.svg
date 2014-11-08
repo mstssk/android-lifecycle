@@ -71,17 +71,17 @@
      x="-5.4397545"
      y="-1.826499"
      id="text18"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="-5.4397545"
      y="-1.026499"
      id="text20"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">added to</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">既存の Activity に</text>
   <text
      x="-5.4397545"
      y="-0.22649907"
      id="text22"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">existing activity</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">追加された</text>
   <rect
      width="9"
      height="2"
@@ -189,7 +189,7 @@
      x="-0.93975472"
      y="69.140503"
      id="text58"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="-0.93975472"
      y="69.940506"
@@ -302,12 +302,12 @@
      x="-0.9387548"
      y="101.07351"
      id="text96"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="-0.9387548"
      y="101.8735"
      id="text98"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">destroyed</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">破棄された</text>
   <path
      d="m 12.893245,-3.7264991 5.334,0 c 0.736,0 1.333,0.448 1.333,1 0,0.552 -0.597,1 -1.333,1 l -5.334,0 c -0.736,0 -1.333,-0.448 -1.333,-1 0,-0.552 0.597,-1 1.333,-1"
      id="path100"
@@ -320,12 +320,12 @@
      x="15.560245"
      y="-2.9264991"
      id="text104"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity 起動</text>
   <text
      x="15.560245"
      y="-2.1264992"
      id="text106"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">launched</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">#あとで消す#</text>
   <rect
      width="8"
      height="2.0599999"
@@ -452,12 +452,12 @@
      x="15.560245"
      y="69.140503"
      id="text148"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity が</text>
   <text
      x="15.560245"
      y="69.940506"
      id="text150"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">running</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">実行中</text>
   <rect
      width="8"
      height="2"
@@ -489,12 +489,12 @@
      x="15.560245"
      y="102.07351"
      id="text162"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity が</text>
   <text
      x="15.560245"
      y="102.8735"
      id="text164"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">shut down</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">shut downした</text>
   <rect
      width="7"
      height="2"
@@ -760,17 +760,17 @@
      x="3.5602453"
      y="-1.826499"
      id="text260"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="3.5602453"
      y="-1.026499"
      id="text262"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">inflated from</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">レイアウトから</text>
   <text
      x="3.5602453"
      y="-0.22649907"
      id="text264"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">layout</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">inflateされた</text>
   <polyline
      points="8.000,4.000 8.000,5.000 5.750,5.000 5.750,5.569 "
      id="polyline266"
@@ -1043,12 +1043,12 @@
      x="-1.4397547"
      y="-5.7264991"
      id="text362"
-     style="font-size:1.05999994px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment Lifecycle</text>
+     style="font-size:1.05999994px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment ライフサイクル</text>
   <text
      x="19.560244"
      y="-5.7264991"
      id="text364"
-     style="font-size:1.05999994px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity Lifecycle</text>
+     style="font-size:1.05999994px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity ライフサイクル</text>
   <rect
      width="8"
      height="2"
@@ -1197,7 +1197,7 @@
      x="8.014246"
      y="-10.926499"
      id="text414"
-     style="font-size:1.40999997px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:sans">The Complete Android Activity/Fragment Lifecycle</text>
+     style="font-size:1.40999997px;font-style:normal;font-weight:700;text-anchor:middle;fill:#000000;font-family:sans">Android Activity/Fragment ライフサイクル表</text>
   <rect
      width="8"
      height="2"
@@ -1396,12 +1396,12 @@
      x="-1.4397547"
      y="24.2735"
      id="text484"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Only called upon fragment creation</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment の生成時及び再attach時に</text>
   <text
      x="-1.4397547"
      y="25.0735"
      id="text486"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">and reattachment, not restart</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">呼ばれる, restart時は除く</text>
   <polyline
      points="1.250,20.000 1.250,22.000 -3.000,22.000 -3.000,33.000 1.250,33.000 1.250,37.569 "
      id="polyline488"
@@ -1488,12 +1488,12 @@
      x="-8.4397545"
      y="48.273502"
      id="text520"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Apps with higher priority</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">より優先度の高いアプリが</text>
   <text
      x="-8.4397545"
      y="49.073502"
      id="text522"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">need memory</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">メモリを要求した</text>
   <path
      d="m -11.106755,44.273501 5.3340002,0 c 0.736,0 1.333,0.448 1.333,1 0,0.552 -0.597,1 -1.333,1 l -5.3340002,0 c -0.736,0 -1.333,-0.448 -1.333,-1 0,-0.552 0.597,-1 1.333,-1"
      id="path524"
@@ -1506,12 +1506,12 @@
      x="-8.4397545"
      y="45.073502"
      id="text528"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">App process</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">アプリのプロセスが</text>
   <text
      x="-8.4397545"
      y="45.873501"
      id="text530"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">killed</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">killされた</text>
   <rect
      width="4.7919998"
      height="1.545"
@@ -1523,12 +1523,12 @@
      x="-8.4397545"
      y="42.273502"
      id="text534"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">User navigates</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ユーザーが再び</text>
   <text
      x="-8.4397545"
      y="43.073502"
      id="text536"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">to the activity</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity に移動した</text>
   <rect
      width="5.8000002"
      height="8.5"
@@ -1561,7 +1561,7 @@
      x="29.460245"
      y="-5.181499"
      id="text546"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Common</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">共通</text>
   <rect
      width="5"
      height="1.9"
@@ -1580,7 +1580,7 @@
      x="29.460245"
      y="-2.9814992"
      id="text552"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Uncommon</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">非共通</text>
   <rect
      width="5"
      height="1.9"
@@ -1599,12 +1599,12 @@
      x="29.460245"
      y="-0.78149903"
      id="text558"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Conditional</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">条件付き</text>
   <text
      x="29.460245"
      y="-7.0714989"
      id="text560"
-     style="font-size:0.88px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Key</text>
+     style="font-size:0.88px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">凡例</text>
   <rect
      width="4.7930002"
      height="1.545"
@@ -1616,12 +1616,12 @@
      x="25.560244"
      y="83.273506"
      id="text564"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">User navigates</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ユーザーが再び</text>
   <text
      x="25.560244"
      y="84.073509"
      id="text566"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">to the activity</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity に移動した</text>
   <rect
      width="4.4580002"
      height="1.545"
@@ -1633,12 +1633,12 @@
      x="9.5602455"
      y="69.273506"
      id="text570"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">User returns</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ユーザーが</text>
   <text
      x="9.5602455"
      y="70.073509"
      id="text572"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">to the activity</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity に戻る</text>
   <line
      x1="1.3102453"
      y1="77.273506"
@@ -1718,22 +1718,22 @@
      x="2.560245"
      y="71.773506"
      id="text600"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">User navigates</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ユーザーが前画面へ</text>
   <text
      x="2.560245"
      y="72.573509"
      id="text602"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">backward or</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">戻った、または</text>
   <text
      x="2.560245"
      y="73.373505"
      id="text604"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="2.560245"
      y="74.173508"
      id="text606"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">removed/replaced</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">除去/置換された</text>
   <rect
      width="5.8330002"
      height="3.145"
@@ -1745,22 +1745,22 @@
      x="-4.439755"
      y="71.773506"
      id="text610"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="-4.439755"
      y="72.573509"
      id="text612"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">added to the back</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">バックスタックに</text>
   <text
      x="-4.439755"
      y="73.373505"
      id="text614"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">stack, then</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">積まれて、</text>
   <text
      x="-4.439755"
      y="74.173508"
      id="text616"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">removed/replaced</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">除去/置換された</text>
   <polyline
      points="1.250,90.000 1.250,91.000 -9.000,91.000 -9.000,14.506 -1.431,14.506 "
      id="polyline618"
@@ -1802,57 +1802,57 @@
      x="-13.439754"
      y="88.273506"
      id="text632"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">The fragment</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">バックスタックから</text>
   <text
      x="-13.439754"
      y="89.073509"
      id="text634"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">returns to the</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragmentが</text>
   <text
      x="-13.439754"
      y="89.873505"
      id="text636"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">layout from the</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">レイアウトへ</text>
   <text
      x="-13.439754"
      y="90.673508"
      id="text638"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">back stack</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">復帰した</text>
   <text
      x="23.560244"
      y="2.2735009"
      id="text640"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Uncommon lifecycle</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">非共通のライフサイクルの</text>
   <text
      x="23.560244"
      y="3.0735009"
      id="text642"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">events are ones that</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">イベントは、</text>
   <text
      x="23.560244"
      y="3.8735008"
      id="text644"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">either the documentation</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">ドキュメント上では</text>
   <text
      x="23.560244"
      y="4.673501"
      id="text646"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">states are not intended for</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">アプリでの使用を</text>
   <text
      x="23.560244"
      y="5.4735007"
      id="text648"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">application use or which</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">意図していないか、</text>
   <text
      x="23.560244"
      y="6.2735009"
      id="text650"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">aren't often encountered</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">多くのアプリであまり</text>
   <text
      x="23.560244"
      y="7.0735011"
      id="text652"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">in many apps</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">使われていません。</text>
   <rect
      width="7.4219999"
      height="1.092"
@@ -1864,12 +1864,12 @@
      x="26.160244"
      y="67.801506"
      id="text656"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Only called when</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">最初に onUserInteraction() が</text>
   <text
      x="26.160244"
      y="68.366508"
      id="text658"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">onUserInteraction() is called first</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">呼ばれた時のみ、呼ばれる</text>
   <rect
      width="4.7930002"
      height="1.656"
@@ -1881,17 +1881,17 @@
      x="23.560244"
      y="61.037502"
      id="text662"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Called when the user</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">ユーザー操作によって</text>
   <text
      x="23.560244"
      y="61.601501"
      id="text664"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">interacts with the</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity が呼び出された</text>
   <text
      x="23.560244"
      y="62.165501"
      id="text666"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">activity.</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">#あとで消す#</text>
   <rect
      width="5.2969999"
      height="1.092"
@@ -1903,12 +1903,12 @@
      x="18.560244"
      y="35.273502"
      id="text670"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Called when an activity</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">startActivityForResult で起動した</text>
   <text
      x="18.560244"
      y="35.837502"
      id="text672"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">you launched exits</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Activity を閉じた時に呼ばれる</text>
   <text
      x="8.0602455"
      y="-9.7264996"
@@ -1977,32 +1977,32 @@
      x="-16.439754"
      y="94.273506"
      id="text698"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">the fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Fragment が</text>
   <text
      x="-16.439754"
      y="95.073509"
      id="text700"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">reattached</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">再attachされた</text>
   <text
      x="23.560244"
      y="8.2735004"
      id="text702"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Attached: fragment is</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Attached: Fragment が</text>
   <text
      x="23.560244"
      y="9.0735006"
      id="text704"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">associated with an activity</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Activity に関連付けられた</text>
   <text
      x="23.560244"
      y="10.6735"
      id="text706"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Added: fragment is in the</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Added: Fragment が</text>
   <text
      x="23.560244"
      y="11.4735"
      id="text708"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">view hiearchy</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">view hiearchyに追加された</text>
   <polyline
      points="8.000,6.507 9.400,6.507 9.400,15.012 8.487,15.012 "
      id="polyline710"
@@ -2049,22 +2049,22 @@
      x="24.885244"
      y="45.318501"
      id="text726"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">Things get a little</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">v4 Support Library</text>
   <text
      x="24.885244"
      y="45.882504"
      id="text728"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">weird here if you're</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">を使っている場合、</text>
   <text
      x="24.885244"
      y="46.447502"
      id="text730"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">using the v4 compat</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">変な振る舞いをする</text>
   <text
      x="24.885244"
      y="47.011501"
      id="text732"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">library.</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">ことがあります。</text>
   <line
      x1="24.511244"
      y1="46.674503"
@@ -2154,22 +2154,22 @@
      x="4.7852459"
      y="79.718506"
      id="text764"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">This method</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">このメソッドは</text>
   <text
      x="4.7852459"
      y="80.282509"
      id="text766"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">may be called at</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">onDestroy の前に</text>
   <text
      x="4.7852459"
      y="80.847504"
      id="text768"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">any time before</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">いつでも呼び出す</text>
   <text
      x="4.7852459"
      y="81.411507"
      id="text770"
-     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">onDestroy()</text>
+     style="font-size:0.5px;font-style:normal;font-weight:400;text-anchor:start;fill:#000000;font-family:sans">ことができます。</text>
   <line
      x1="4.4102459"
      y1="80.567505"
@@ -2329,10 +2329,10 @@
      x="-1.0397546"
      y="58.873501"
      id="text822"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">Only called if</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">setHasOptionsMenu(true)</text>
   <text
      x="-1.0397546"
      y="59.673504"
      id="text824"
-     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">setHasOptionsMenu(true)</text>
+     style="font-size:0.6px;font-style:normal;font-weight:400;text-anchor:middle;fill:#000000;font-family:sans">が呼ばれていた場合のみ</text>
 </svg>
